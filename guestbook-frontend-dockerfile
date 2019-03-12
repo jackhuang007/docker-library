@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/redis:e2e
-MAINTAINER JACKHUANG
+MAINTAINER JackHuang <71024351@qq.com>
